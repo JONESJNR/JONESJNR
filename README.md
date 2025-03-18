@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @JONESJNR
-- 👀 I’m interested in ...web 3
-- 🌱 I’m currently learning Data analytics...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...jonesfelix27@gmail.com
-
-<!---
-JONESJNR/JONESJNR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+FELIX is a results-driven Data Analyst with expertise in transforming complex datasets into actionable insights. With a strong background in statistical analysis, data visualization, and SQL, Felix excels in identifying trends and optimizing business decisions. Proficient in tools like Sql, Power BI, and Excel they bring efficiency to data-driven processes. My analytical mindset and problem-solving skills have contributed to significant improvements in operational and financial performance. Passionate about leveraging data to drive strategic growth, Felix is committed to delivering impactful solutions.
